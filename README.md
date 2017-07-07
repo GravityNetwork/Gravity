@@ -6,6 +6,28 @@ Gravity is a resilient, distributed smart contracts computational network that a
 - Scalability: Networks of interoperable logical distinct VMs inherit the natural scalability properties of networks.
 - Speed: Since there is no one single global state to replicate and agree upon, consistent, high speed commits, among autonomous VMs/Agents may be achieved through distributed transactions.
 
--  [Wiki](https://github.com/GravityNetwork/Gravity/wiki)
--  [White Paper](https://github.com/GravityNetwork/Gravity/wiki/Gravity-Whitepaper)
--  [Reading List](https://github.com/GravityNetwork/Gravity/wiki/Reading-List)
+The Gravity project is currently being incubated by the [Economic Space Agency](http://economicspace.agency).
+
+## <a name="online">Gravity Resources</a>
+
+* [White Paper](https://github.com/GravityNetwork/Gravity/wiki/Gravity-Whitepaper)
+* [Background Reading List](https://github.com/GravityNetwork/Gravity/wiki/Reading-List)
+* [Gravity developers mailing list](http://agoric.info/lists/?p=subscribe)
+
+## <a name="online">Economic Space Agency Resources</a>
+
+* [Economic Spaces Slack](http://slack.ecsa.io)
+* [Twitter](https://twitter.com/ecsa_team)
+* [YouTube](https://www.youtube.com/channel/UCUYSiFZWVcCnL0YMG7Qmvjg)
+* [Medium blog](https://medium.com/@ecsa_team/)
+* [Facebook group](https://www.facebook.com/economicspaceagency/)
+* [Newsletters](http://newsletter.ecsa.io)
+* [Economic Space Agency mailing list](http://mailing.ecsa.io/?p=subscribe&id=1)
+
+## <a name="events">Events</a>
+
+* [MeetUps](https://www.meetup.com/EconomyOS/)
+* [Economic Space Agency Events](https://github.com/EconomicSpaceAgency/EconomicSpaceAgency/blob/master/events/README.md)
+
+## <a name="hth">How to Help</a>
+* Join us on [Slack](http://slack.ecsa.io), we're friendly folks :)
